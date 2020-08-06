@@ -1,4 +1,6 @@
-# Final Project for Saraya Danielsen
+# Headline
+
+Final Project for Saraya Danielsen
 
 Here is some text. And I want to create a [link](https://wikipedia.org).
 
