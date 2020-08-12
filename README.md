@@ -1,6 +1,6 @@
 # An Investigation into Reality TV Show "Love Island"
 
-![Picture](https://upload.wikimedia.org/wikipedia/en/9/99/Love_Island_%282015%29_title-card.jpg)
+![Picture](https://upload.wikimedia.org/wikipedia/en/9/99/Love_Island_%282015%29_title-card.jpg/430/240)
 
 Final Project for Saraya Danielsen
 
@@ -26,5 +26,6 @@ The formula I used was:
 
 <iframe title="Percent of People In Zipcode Who Only Speak English" aria-label="map" id="datawrapper-chart-kxR23" src="https://datawrapper.dwcdn.net/kxR23/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="721"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
 
 [Link to dataset](https://github.com/amynic/love-island-workshop/blob/master/data%20vizualisation/love-island-historical-dataset.csv).
