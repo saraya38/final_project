@@ -6,7 +6,7 @@
 
 This dataset includes all contestants from seasons 2-4 of the British dating reality show, and it spans from 2016 to 2019. I got it from GitHub, and it was compiled by Amy Kate Boyd from Microsoft. You can access the data [here](https://github.com/amynic/love-island-workshop/blob/master/data%20vizualisation/love-island-historical-dataset.csv).
 
-### Age
+### Age & Gender
 
 The first thing I wanted to investigate was age breakdowns, and whether it was similar between women and men. I made a pivot table where I grouped by gender, and then by age within each gender.
 
@@ -25,7 +25,7 @@ The female demographic is a little younger with a median age of 22, while the ma
 
 There is only information on strictly male and female categories; it must be noted that "Love Island" as a show is structured around a binary with specifically gender-split activities.
 
-### Contestant Professions
+### Professions
 
 I grouped contestants together by profession and then divided the count column by the total to find the highest percentage professions:
 
@@ -34,7 +34,7 @@ I grouped contestants together by profession and then divided the count column b
 
 ### Where Are they From?
 
-I used Region and Contestant Outcome (what they placed) to find
+I used Region and Contestant Outcome (what they placed) to find:
 1. What regions the most contestants came from (London)
 2. What region produced the most winners/runner-up contestants (Essex)
 
