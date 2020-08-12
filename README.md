@@ -4,7 +4,7 @@
 
 ### Final Project for Saraya Danielsen
 
-This dataset includes all contestants from seasons 2-4 of the British dating reality show, and it spans from 2016 to 2019. I got it from GitHub, and it was compiled by Amy Kate Boyd from Microsoft. You can access the data [here](https://github.com/amynic/love-island-workshop/blob/master/data%20vizualisation/love-island-historical-dataset.csv).
+This dataset includes all 96 contestants from seasons 2-4 of the British dating reality show, spanning from 2016 to 2019. I got it from GitHub, and it was compiled by Amy Kate Boyd from Microsoft. You can access the data [here](https://github.com/amynic/love-island-workshop/blob/master/data%20vizualisation/love-island-historical-dataset.csv).
 
 ### Age & Gender
 
