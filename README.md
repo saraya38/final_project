@@ -4,7 +4,7 @@
 
 ### Final Project for Saraya Danielsen
 
-This dataset includes all contestants from seasons 2-4 of the British dating reality show, and it spans from 2016 to 2019. I got it from GitHub, and it was compiled by Amy Kate Boyd from Microsoft. 
+This dataset includes all contestants from seasons 2-4 of the British dating reality show, and it spans from 2016 to 2019. I got it from GitHub, and it was compiled by Amy Kate Boyd from Microsoft. You can access it [here](https://github.com/amynic/love-island-workshop/blob/master/data%20vizualisation/love-island-historical-dataset.csv).
 
 The first thing I wanted to investigate was age breakdowns, and whether it was similar between women and men. 
 
@@ -36,4 +36,3 @@ Although the most contestants came from London, the most winners and runner-up c
 <iframe title="Where the The Show's Winners Come From" aria-label="map" id="datawrapper-chart-swx5b" src="https://datawrapper.dwcdn.net/swx5b/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="765"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-[Link to dataset](https://github.com/amynic/love-island-workshop/blob/master/data%20vizualisation/love-island-historical-dataset.csv).
