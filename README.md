@@ -1,8 +1,8 @@
-# Headline
-
-Final Project for Saraya Danielsen
+# An Investigation into Reality TV Show "Love Island"
 
 ![Picture](https://upload.wikimedia.org/wikipedia/en/9/99/Love_Island_%282015%29_title-card.jpg)
+
+Final Project for Saraya Danielsen
 
 1. Here is a list
 2. Another item
