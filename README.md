@@ -6,6 +6,8 @@
 
 This dataset includes all contestants from seasons 2-4 of the British dating reality show, and it spans from 2016 to 2019. I got it from GitHub, and it was compiled by Amy Kate Boyd from Microsoft. You can access the data [here](https://github.com/amynic/love-island-workshop/blob/master/data%20vizualisation/love-island-historical-dataset.csv).
 
+### Age
+
 The first thing I wanted to investigate was age breakdowns, and whether it was similar between women and men. I made a pivot table where I grouped by gender, and then by age within each gender.
 
 <iframe title="Age of All Contestants (2016-2019)" aria-label="Interactive line chart" id="datawrapper-chart-sj2xH" src="https://datawrapper.dwcdn.net/sj2xH/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -23,10 +25,14 @@ The female demographic is a little younger with a median age of 22, while the ma
 
 There is only information on strictly male and female categories; it must be noted that "Love Island" as a show is structured around a binary with specifically gender-split activities.
 
+### Contestant Professions
+
 I grouped contestants together by profession and then divided the count column by the total to find the highest percentage professions:
 
 <iframe title="Most Common Professions Among Contestants" aria-label="chart" id="datawrapper-chart-9wCW0" src="https://datawrapper.dwcdn.net/9wCW0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="560"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+### Where Are they From?
 
 I used Region and Contestant Outcome (what they placed) to find
 1. What regions the most contestants came from (London)
@@ -37,4 +43,3 @@ I used Region and Contestant Outcome (what they placed) to find
 
 <iframe title="Where the The Show's Winners Come From" aria-label="map" id="datawrapper-chart-swx5b" src="https://datawrapper.dwcdn.net/swx5b/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="765"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
