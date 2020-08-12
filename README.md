@@ -2,7 +2,7 @@
 
 Final Project for Saraya Danielsen
 
-![uh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLove_Island_(2015_TV_series)&psig=AOvVaw0RdaqPVSn-LL9pR8gAKeMf&ust=1597291415708000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKii_rjklOsCFQAAAAAdAAAAABAQ)
+![Picture](https://upload.wikimedia.org/wikipedia/en/9/99/Love_Island_%282015%29_title-card.jpg)
 
 1. Here is a list
 2. Another item
