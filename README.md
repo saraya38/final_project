@@ -2,7 +2,7 @@
 
 ![Picture](https://upload.wikimedia.org/wikipedia/en/9/99/Love_Island_%282015%29_title-card.jpg)
 
-## Final Project for Saraya Danielsen
+### Final Project for Saraya Danielsen
 
 This dataset includes all contestants from seasons 2-4 of the British dating reality show, and it spans from 2016 to 2019. I got it from GitHub, and it was compiled by Amy Kate Boyd from Microsoft. 
 
